@@ -38,7 +38,7 @@
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
   </component>
-  <component name="RunManager" selected="Application.MethodOverloading">
+  <component name="RunManager" selected="Application.varArgsSumOfNums">
     <configuration name="GCD" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="GCD" />
       <module name="MethodPractice" />
@@ -60,15 +60,15 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MethodPractice" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="MethodPractice" />
+    <configuration name="varArgsMaxOfNum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="varArgsMaxOfNum" />
       <module name="MethodPractice" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PrimeNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="PrimeNumber" />
+    <configuration name="varArgsSumOfNums" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="varArgsSumOfNums" />
       <module name="MethodPractice" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -76,11 +76,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.varArgsSumOfNums" />
+        <item itemvalue="Application.varArgsMaxOfNum" />
         <item itemvalue="Application.MethodOverloading" />
         <item itemvalue="Application.MaxInArray" />
         <item itemvalue="Application.GCD" />
-        <item itemvalue="Application.PrimeNumber" />
-        <item itemvalue="Application.MethodPractice" />
       </list>
     </recent_temporary>
   </component>
@@ -96,6 +96,7 @@
       <updated>1630088374241</updated>
       <workItem from="1630088378042" duration="3002000" />
       <workItem from="1630166999293" duration="4015000" />
+      <workItem from="1630217925899" duration="1071000" />
     </task>
     <servers />
   </component>
@@ -103,22 +104,22 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
-    <state width="914" height="351" key="GridCell.Tab.0.bottom" timestamp="1630174245665">
+    <state width="914" height="160" key="GridCell.Tab.0.bottom" timestamp="1630219025573">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state width="914" height="351" key="GridCell.Tab.0.bottom/0.0.1920.1050@0.0.1920.1050" timestamp="1630174245665" />
-    <state width="914" height="351" key="GridCell.Tab.0.center" timestamp="1630174245665">
+    <state width="914" height="160" key="GridCell.Tab.0.bottom/0.0.1920.1050@0.0.1920.1050" timestamp="1630219025573" />
+    <state width="914" height="160" key="GridCell.Tab.0.center" timestamp="1630219025573">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state width="914" height="351" key="GridCell.Tab.0.center/0.0.1920.1050@0.0.1920.1050" timestamp="1630174245665" />
-    <state width="914" height="351" key="GridCell.Tab.0.left" timestamp="1630174245664">
+    <state width="914" height="160" key="GridCell.Tab.0.center/0.0.1920.1050@0.0.1920.1050" timestamp="1630219025573" />
+    <state width="914" height="160" key="GridCell.Tab.0.left" timestamp="1630219025572">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state width="914" height="351" key="GridCell.Tab.0.left/0.0.1920.1050@0.0.1920.1050" timestamp="1630174245664" />
-    <state width="914" height="351" key="GridCell.Tab.0.right" timestamp="1630174245665">
+    <state width="914" height="160" key="GridCell.Tab.0.left/0.0.1920.1050@0.0.1920.1050" timestamp="1630219025572" />
+    <state width="914" height="160" key="GridCell.Tab.0.right" timestamp="1630219025573">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state width="914" height="351" key="GridCell.Tab.0.right/0.0.1920.1050@0.0.1920.1050" timestamp="1630174245665" />
+    <state width="914" height="160" key="GridCell.Tab.0.right/0.0.1920.1050@0.0.1920.1050" timestamp="1630219025573" />
     <state width="914" height="351" key="GridCell.Tab.1.bottom" timestamp="1630174245665">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
