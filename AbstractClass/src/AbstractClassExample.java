@@ -1,8 +1,9 @@
 //All the classes we use are concrete classes
-// We can't create object of an abstract class
+//We can't create object of an abstract class
 //Abstract methods can't have any body
 //Abstract classes are only used for inheritance
 //We must override the abstract methods to use them
+//Abstract classes are only for giving structure to the code
 
 abstract class Super{
     public Super(){
