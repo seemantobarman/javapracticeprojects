@@ -13,7 +13,7 @@ class Outer {
     }
 }
 
-public class InnerClassExamp leOne {
+public class InnerClassExampleOne {
     public static void main(String[] args) {
         Outer o = new Outer();
         o.outerDisplay();
