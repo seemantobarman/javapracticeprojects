@@ -1,0 +1,23 @@
+Final is just like a constant.
+Final is used in 3 places,
+
+1. Final Variable --> {
+These variables are constants.
+Final variables can't be modified.
+The convention of writing final variables are to capitalize the name of the variable.
+There are 3 ways of initializing final variables --> {
+    1. Initialize them when declaring.
+    2. Initialize them inside instance block. i.e { initialize here }
+    3. Initialize them inside the constructor of the class.
+ }
+}
+
+2. Final Method --> {
+Final methods can not be overrided.
+We can inherit/extends a class which has a final method inside that class, but we can't override that final method.
+}
+
+3. Final Class --> {
+A final class can't be extended/inherited.
+We can create objects of the final class but we can not extend it to another class.
+}
